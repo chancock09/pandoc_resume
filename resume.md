@@ -37,23 +37,8 @@ Also with a short description.
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
+Server-Side
+:   **first-lang** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
     mention some others together at the end. A format that works well
     here is a description list where the first few items have their
@@ -69,34 +54,30 @@ Programming Languages
 :   **obscure-but-impressive-lang:** We both know this one's pushing
     it.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+Frontend
+:   **angular.js**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Other Technology
+:   Git, Unix, Pandas, ActiveAdmin, sidetiq/kiq, cron, Bloomberg (BlAPI), OneTick
+
+
+:   Basic knowledge of **C**, **x86 assembly**, **bash**
 
 Education
 ---------
 
 2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+:   **BS, Computer Science** Stanford University
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Focus: Biocomputation*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+    *Coursework: Algorithms, AI, Databases, Linear Programming, NLP, Optimization*
 
-    *Minor: Awesomeology*
+Other Interests
+---------------
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+* Travel (backpacking & hostel style)
 
-* Human Languages:
+* Meditation
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* Fitness (Olympic-style weightlifting)
