@@ -1,14 +1,14 @@
 Chris Hancock
 ===
 
-----------------------------     --------------------
-https://chancock09.github.io     chancock09@gmail.com
-----------------------------     --------------------
+---------------------     ---------------------
+chancock09.github.io       chancock09@gmail.com
+---------------------     ---------------------
 
 Experience
 ----------
 
-**Handy:**
+**Handy**
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
@@ -19,7 +19,7 @@ links:
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 
-**Clarity Consulting:**
+**Clarity Consulting**
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
