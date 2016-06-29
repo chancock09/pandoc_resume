@@ -15,9 +15,9 @@ $if(mainlang)$
 $endif$
 
 \setupcolor[hex]
-\definecolor[titlegrey][h=757575]
+\definecolor[titlecolor][h=757575]
 \definecolor[sectioncolor][h=757575]
-\definecolor[rulecolor][h=9cb770]
+\definecolor[rulecolor][h=757575]
 
 % Enable hyperlinks
 \setupinteraction[state=start, color=sectioncolor]
@@ -28,8 +28,6 @@ $endif$
                  topspace=10mm, bottomspace=20mm,
                  header=0mm, footer=0mm]
 
-%\setuppagenumbering[location={footer,center}]
-
 \setupbodyfont[11pt, helvetica]
 
 \setupwhitespace[medium]
@@ -37,7 +35,7 @@ $endif$
 \setupblackrules[width=31mm, color=rulecolor]
 
 \setuphead[chapter]      [style=\tfd]
-\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead[section]      [style=\tfd\bf, color=titlecolor, align=middle]
 \setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
                           before={\leavevmode\blackrule\hspace}]
 \setuphead[subsubsection][style=\bf]
@@ -46,8 +44,6 @@ $if(number-sections)$
 $else$
 \setuphead[chapter, section, subsection, subsubsection][number=no]
 $endif$
-
-%\setupdescriptions[width=10mm]
 
 \definedescription
   [description]
