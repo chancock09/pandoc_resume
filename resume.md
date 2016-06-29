@@ -81,3 +81,5 @@ Other Interests
 * Meditation
 
 * Fitness (Olympic-style weightlifting)
+
+* Drinking Coffee
