@@ -6,6 +6,7 @@ The Markdown Resume
 ```
 git clone https://github.com/chancock09/resume
 cd resume
+. /Users/chancock/context/tex/setuptex
 make
 ```
 
