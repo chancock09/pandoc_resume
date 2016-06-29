@@ -8,7 +8,7 @@ chancock09.github.io       chancock09@gmail.com
 Experience
 ----------
 
-**Handy**
+**Handy** <small>_Engineer (2015 - Present)_</small>
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
@@ -19,7 +19,7 @@ links:
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 
-**Clarity Consulting**
+**Clarity Consulting** <small>_Software Consultant (2014 - 2015)_</small>
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
@@ -29,6 +29,8 @@ links:
 
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
+
+**Gelber Group** <small>_Software Developer / Trading Assistant (2013 - 2014)_</small>
 
 Also with a short description.
 
