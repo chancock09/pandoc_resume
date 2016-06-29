@@ -1,20 +1,24 @@
 The Markdown Resume
 ===================
 
-Instructions:
+###Instructions:
 
 ```
-git clone https://github.com/mszep/pandoc_resume
-cd pandoc_resume
-vim resume.md   #insert your own resume info
+git clone https://github.com/chancock09/resume
+cd resume
 make
 ```
 
-Requirements:
+###Requirements:
 
- * ConTeXt
- * pandoc
+- ConTeXt
+- pandoc
 
 ```
-sudo apt-get install pandoc context
+brew install pandoc
+
+# http://wiki.contextgarden.net/Mac_Installation#Using_the_Commandline
+mkdir $HOME/context
+rsync -av rsync://contextgarden.net/minimals/setup/first-setup.sh .
+sh ./first-setup.sh --modules=all --engine=luatex
 ```
