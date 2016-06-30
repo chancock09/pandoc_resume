@@ -1,9 +1,9 @@
 Chris Hancock
 ===
 
----------------------     ---------------------
-chancock09.github.io       chancock09@gmail.com
----------------------     ---------------------
+||
+|:--:|
+|chancock09.github.io • chancock09@gmail.com|
 
 Experience
 ----------
@@ -57,8 +57,8 @@ Server-Side
 Frontend
 :   **angular.js**
 
-Other Technology
-:   Git, Unix, Pandas, ActiveAdmin, sidetiq/kiq, cron, Bloomberg (BlAPI), OneTick
+Other
+:   Git, Unix, Pandas, ActiveAdmin, sidetiq/kiq, cron, Hive, Docker, Bloomberg (BlAPI), OneTick
 
 
 :   Basic knowledge of **C**, **x86 assembly**, **bash**
