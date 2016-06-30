@@ -10,22 +10,19 @@ Experience
 
 **Handy** <small>_Engineer (2015 - Present)_</small>
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Full-Stack Product Engineer for and Retention teams. Frontend Owner.
 
-* First item
+* Maintaned and extended **angularjs**, **HTML5**, **Sass**, frontend
+  built on Sprockets
 
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 
 **Clarity Consulting** <small>_Software Consultant (2014 - 2015)_</small>
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Built Conference Keynotes, cutting-edge POC's, complex accounting software, and contributed to Windows Universal Apps with global reach using Agile methodologies.
 
-* First item
+* Imbedded Software Development (Vending Machine)
 
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
@@ -37,8 +34,8 @@ Also with a short description.
 Technical Experience
 --------------------
 
-Server-Side
-:   **first-lang** Here, we have an itemization, where we only want
+Server
+:   **first-lang:** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
     mention some others together at the end. A format that works well
     here is a description list where the first few items have their
@@ -46,22 +43,32 @@ Server-Side
     emphasized terms. Notice the reasonably nice page break in the pdf
     version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
+:   **C#:** Description of your experience with second-lang,
     perhaps again including a [link] [ref], this time placing the url
     reference elsewhere in the document to reduce clutter (see source
     file).
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
+:   **Python:** We both know this one's pushing
     it.
 
-Frontend
-:   **angular.js**
+:   **MySQL**
+
+Web
+:   **Javascript:**
+
+:   **angular.js:** Maintained and extend [Handy](https://www.handy.com)
+    Application as frontend owner.
+
+:   **HTML5:**
+
+Mobile
+:   **C#:** Development on Windows Universal Apps
 
 Other
-:   Git, Unix, Pandas, ActiveAdmin, sidetiq/kiq, cron, Hive, Docker, Bloomberg (BlAPI), OneTick
-
-
-:   Basic knowledge of **C**, **x86 assembly**, **bash**
+:   Git, Unix, Pandas, ActiveAdmin, sidetiq/kiq, cron, Hive,
+    Docker, Bloomberg (BlAPI), OneTick, Jasmine, JIRA,
+    webhooks, RESTful architecture, SoA, SQLite, TFS,
+    Entity Framework, Agile Methodologies (Scrum)
 
 Education
 ---------
