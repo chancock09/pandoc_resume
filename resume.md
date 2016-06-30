@@ -11,6 +11,13 @@ Experience
 **Handy** <small>_Engineer (2015 - Present)_</small>
 
 Full-Stack Product Engineer for and Retention teams. Frontend Owner.
+TODO: try to keep this content in business terms and save the programming
+languages for later
+
+* Redesigned frontend, increasing install by x% per week
+
+* Funnel optimizations using **Checkr**, **Twilio**, and **Jumio** increased
+  Provider funnel by %50*, while decreasing cost per applicant by 30% (confirm)
 
 * Maintaned and extended **angularjs**, **HTML5**, **Sass**, frontend
   built on Sprockets
@@ -66,9 +73,10 @@ Mobile
 
 Other
 :   Git, Unix, Pandas, ActiveAdmin, sidetiq/kiq, cron, Hive,
-    Docker, Bloomberg (BlAPI), OneTick, Jasmine, JIRA,
+    Bloomberg (BlAPI), OneTick, Jasmine, JIRA, Airbrake,
     webhooks, RESTful architecture, SoA, SQLite, TFS,
-    Entity Framework, Agile Methodologies (Scrum)
+    Entity Framework, Agile Methodologies (Scrum), ASP MVC5,
+    Twilio (TwiML)
 
 Education
 ---------
