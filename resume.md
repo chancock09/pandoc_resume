@@ -10,33 +10,29 @@ Experience
 
 **Handy** <small>_Engineer (2015 - Present)_</small>
 
-Full-Stack Product Engineer for and Retention teams. Frontend Owner.
-TODO: try to keep this content in business terms and save the programming
-languages for later
+Full-stack product engineer. Frontend owner. Team lead 2016-present.
+Major projects include redesigning the web account page, creating a drip
+campaign framework, and contributions to Handy's Provider funnel, A/B framework,
+and more.
 
-* Redesigned frontend, increasing install by x% per week
+* Frontend redesign drove x% weekly increase in app installs.
 
 * Funnel optimizations using **Checkr**, **Twilio**, and **Jumio** increased
-  Provider funnel by %50*, while decreasing cost per applicant by 30% (confirm)
-
-* Maintaned and extended **angularjs**, **HTML5**, **Sass**, frontend
-  built on Sprockets
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+  Provider funnel yield by %50*, while decreasing cost per applicant by 30% (confirm).
 
 **Clarity Consulting** <small>_Software Consultant (2014 - 2015)_</small>
 
-Built Conference Keynotes, cutting-edge POC's, complex accounting software, and contributed to Windows Universal Apps with global reach using Agile methodologies.
+Built Conference Keynotes, cutting-edge POC's, complex accounting software,
+and contributed to Windows Universal Apps with global reach using Agile methodologies with distributed teams.
 
-* Imbedded Software Development (Vending Machine)
+* Built IoT vending machine demo for IoT North America 2015.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Core contributer on pre-release Windows 10 app for leading social media company.
 
 **Gelber Group** <small>_Software Developer / Trading Assistant (2013 - 2014)_</small>
 
-Also with a short description.
+Managed risk tolerance on automated trading stratagies, wrote new statistical
+tools to drive trading decisions, built a real-time news aggregation service, and helped revamp reporting tools.
 
 Technical Experience
 --------------------
@@ -91,10 +87,8 @@ Education
 Other Interests
 ---------------
 
-* Travel (backpacking & hostel style)
-
-* Meditation
+* Travel (backpacking & hostels)
 
 * Fitness (Olympic-style weightlifting)
 
-* Drinking Coffee
+* Coffee
