@@ -10,13 +10,13 @@ Experience
 
 **Handy** <small>_Software Engineer (2015 - Present)_</small>
 
-Full-stack **Rails** product engineer, Retention team lead, and de facto **AngularJS** frontend owner.
+Full-stack **Rails** product engineer, Retention team lead, and de facto frontend owner.  Contributor across Handy's budding **microservices** ecosystem.
 
 * Designed and deployed internal drip campaign library (sms, push, and text) with **Sidetiq**.
 
-* Lead account page redesign, driving x% weekly increase in app installs.
+* Lead account page redesign in **AngularJS**, driving x% weekly increase in app installs.
 
-* Core contributer on A/B framework using **Planout**.
+* Core contributer on A/B **ruby gem** using **Planout**.
 
 * Increased Pro applicant funnel yield by %50* while decreasing cost per applicant by 30% (confirm) using **Checkr**, **Twilio**, and **Jumio**.
 
@@ -42,31 +42,21 @@ Individual contributor on small, distributed, agile teams with high attention to
 
 Technical
 --------------------
+Side Projects
+:	**Handymaps:** Basis of Handy Hackday "Best Data Viz". Real time location visulizations using **d3** with **socket.io**.
+
 Server
-:	**Ruby:** 
-
-:   **C#:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file).
-
-:   **MySQL:**
-
-:   **Python:** 
+:   **Ruby** (on Rails) with **MySql**. Additional apps in **node**, **C#** (ASP MVC, Windows Universal) **python** (Django and Flask)
 
 Client
-:   **Javascript:**
+:   **Javascript** love-hater and **AngularJS** apologist.  Tweaks **HTML5** and **CSS** for fun.  Lately experimenting with **Webpack** and **React**.
 
-:   **HTML5:**
-
-:	**CSS3:** 
-
-Other
+Other Technologies
 :   Git, Unix, Pandas, ActiveAdmin, Sidetiq/kiq, cron, Hive,
-    Bloomberg (BlAPI), OneTick, Jasmine, JIRA, Airbrake,
+    Bloomberg (BlAPI), OneTick, Jasmine, JIRA, Airbrake, backbone,
     webhooks, RESTful architecture, SoA, SQLite, TFS, d3,
-    Entity Framework, Agile, Scrum, ASP MVC5,
-    Twilio (TwiML), webpack, pandas, SublimeText
+    Entity Framework, Agile, Scrum, ASP MVC5, BEM,
+    Twilio (TwiML), webpack, pandas, ES7, SublimeText
 
 Education
 ---------
