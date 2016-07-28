@@ -8,76 +8,70 @@ Chris Hancock
 Experience
 ----------
 
-**Handy** <small>_Engineer (2015 - Present)_</small>
+**Handy** <small>_Software Engineer (2015 - Present)_</small>
 
-Full-stack product engineer. Frontend owner. Team lead 2016-present.
-Major projects include redesigning the web account page, creating a drip
-campaign framework, and contributions to Handy's Provider funnel, A/B framework,
-and more.
+Full-stack **Rails** product engineer, Retention team lead, and de facto **AngularJS** frontend owner.
 
-* Frontend redesign drove x% weekly increase in app installs.
+* Designed and deployed internal drip campaign library (sms, push, and text) with **Sidetiq**.
 
-* Funnel optimizations using **Checkr**, **Twilio**, and **Jumio** increased
-  Provider funnel yield by %50*, while decreasing cost per applicant by 30% (confirm).
+* Lead account page redesign, driving x% weekly increase in app installs.
+
+* Core contributer on A/B framework using **Planout**.
+
+* Increased Pro applicant funnel yield by %50* while decreasing cost per applicant by 30% (confirm) using **Checkr**, **Twilio**, and **Jumio**.
 
 **Clarity Consulting** <small>_Software Consultant (2014 - 2015)_</small>
 
-Built Conference Keynotes, cutting-edge POC's, complex accounting software,
-and contributed to Windows Universal Apps with global reach using Agile methodologies with distributed teams.
+Individual contributor on small, distributed, agile teams with high attention to frontend polish.
 
-* Built IoT vending machine demo for IoT North America 2015.
+* Full-rewrite of a national tax firm's accounting software.
 
-* Core contributer on pre-release Windows 10 app for leading social media company.
+* Pre-release **Windows 10 Universal App** for leading social media company.
+
+* Real-time embedded-systems demo for IoT North America with **C# Reactive Extensions**, **AngularJS**.
+
+* Built **jLync** and **Lync Server** keynote demos. 
 
 **Gelber Group** <small>_Software Developer / Trading Assistant (2013 - 2014)_</small>
 
-Managed risk tolerance on automated trading stratagies, wrote new statistical
-tools to drive trading decisions, built a real-time news aggregation service, and helped revamp reporting tools.
+* Created reporting visualization **WPF** applications.
 
-Technical Experience
+* Automated time-consuming daily trade reporting and auditing with **python**.
+
+* Built realtime statics and news-aggregation tooling with **OneTick**, **BlAPI** (Bloomberg), **ForexFactory**, and **MySql**
+
+Technical
 --------------------
-
 Server
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:	**Ruby:** 
 
 :   **C#:** Description of your experience with second-lang,
     perhaps again including a [link] [ref], this time placing the url
     reference elsewhere in the document to reduce clutter (see source
     file).
 
-:   **Python:** We both know this one's pushing
-    it.
+:   **MySQL:**
 
-:   **MySQL**
+:   **Python:** 
 
-Web
+Client
 :   **Javascript:**
-
-:   **angular.js:** Maintained and extend [Handy](https://www.handy.com)
-    Application as frontend owner.
 
 :   **HTML5:**
 
-Mobile
-:   **C#:** Development on Windows Universal Apps
+:	**CSS3:** 
 
 Other
-:   Git, Unix, Pandas, ActiveAdmin, sidetiq/kiq, cron, Hive,
+:   Git, Unix, Pandas, ActiveAdmin, Sidetiq/kiq, cron, Hive,
     Bloomberg (BlAPI), OneTick, Jasmine, JIRA, Airbrake,
-    webhooks, RESTful architecture, SoA, SQLite, TFS,
-    Entity Framework, Agile Methodologies (Scrum), ASP MVC5,
-    Twilio (TwiML)
+    webhooks, RESTful architecture, SoA, SQLite, TFS, d3,
+    Entity Framework, Agile, Scrum, ASP MVC5,
+    Twilio (TwiML), webpack, pandas, SublimeText
 
 Education
 ---------
 
-2010-2014 (expected)
+2010-2013
 :   **BS, Computer Science** Stanford University
 
     *Focus: Biocomputation*
