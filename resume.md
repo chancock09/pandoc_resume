@@ -18,7 +18,7 @@ Full-stack **Rails** product engineer, Retention team lead, and de facto fronten
 
 * Core contributer on A/B **ruby gem** using **Planout**.
 
-* Increased Pro applicant funnel yield by ~%50* while decreasing cost per applicant by ~30% using **Checkr**, **Twilio**, and **Jumio**.
+* Increased Pro applicant funnel yield by ~%50 while decreasing cost per applicant by ~30% using **Checkr**, **Twilio**, and **Jumio**.
 
 **Clarity Consulting** <small>_Software Consultant (2014 - 2015)_</small>
 
@@ -46,17 +46,17 @@ Side Projects
 :	**Handymaps:** Basis of Handy Hackday "Best Data Viz". Real time location visulizations using **d3** with **socket.io**.
 
 Server
-:   **Ruby** (on Rails) with **MySql**. Additional apps in **node**, **C#** (ASP MVC, Windows Universal) **python** (Django and Flask)
+:   **Ruby on Rails** with **MySql**. Sometimes **node**, **C#** (ASP MVC, Windows Universal), or **python** (Django and Flask).
 
 Client
-:   **Javascript** love-hater and **AngularJS** apologist.  Tweaks **HTML5** and **CSS** for fun.  Lately experimenting with **Webpack** and **React**.
+:   **Javascript** and **AngularJS**.  **HTML5** and **CSS3**.  Some **jQuery**, **Backbone**, and **ReactJS**
 
 Other Tech
 :   Git, Unix, Pandas, ActiveAdmin, Sidetiq/kiq, cron, Hive,
     Bloomberg (BlAPI), OneTick, Jasmine, JIRA, Airbrake, backbone,
     webhooks, RESTful architecture, SoA, SQLite, TFS, d3,
     Entity Framework, Agile, Scrum, ASP MVC5, BEM,
-    Twilio (TwiML), webpack, pandas, ES7, SublimeText
+    Twilio (TwiML), webpack, ES7, SublimeText
 
 Education
 ---------
