@@ -10,7 +10,7 @@ Experience
 
 **Handy** <small>_Software Engineer (2015 - Present)_</small>
 
-Full-stack **Rails** product engineer, Retention team lead, and de facto frontend owner.  Contributor across Handy's budding **microservices** ecosystem.
+Full-stack **Rails** product engineer, Retention team lead, and de facto frontend owner.  Contributor across Handy's **microservices** ecosystem.
 
 * Designed and deployed internal drip campaign library (sms, push, and text) with **Sidetiq**.
 
@@ -26,11 +26,11 @@ Contributed on several small, distributed, agile teams with high attention to fr
 
 * Pre-release **Windows 10 Universal App** for leading social media company.
 
-* Real-time embedded-systems demo for IoT North America with **C# Reactive Extensions**, **AngularJS**.
+* Real-time embedded-systems demo for IoT North America with **C# Rx**, **AngularJS**.
 
 * Built **jLync** and **Lync Server** keynote demos for Build Conference.
 
-* Contributer on full-rewrite of a national tax firm's accounting software in **C#* with **MV5**, **Entity Framework**, and **AngularJS** frontend.
+* Contributer on full-rewrite of a national tax firm's accounting software in **C#** with **MV5**, **Entity Framework**, and **AngularJS** frontend.
 
 **Gelber Group** <small>_Software Developer / Trading Assistant (2013 - 2014)_</small>
 
@@ -52,8 +52,8 @@ Client
 :   **Javascript** and **AngularJS**.  **HTML5** and **CSS3**.  Some **jQuery**, **Backbone**, and **ReactJS**
 
 Other Tech
-:   Git, Unix, Pandas, ActiveAdmin, Sidetiq/kiq, cron, Hive,
-    Bloomberg (BlAPI), OneTick, Jasmine, JIRA, Airbrake, backbone,
+:   Git, Github, Unix, Pandas, ActiveAdmin, Sidetiq/kiq, cron, Hive,
+    Bloomberg (BlAPI), OneTick, Jasmine, JIRA, Airbrake,
     webhooks, RESTful architecture, SoA, SQLite, TFS, d3,
     Entity Framework, Agile, Scrum, ASP MVC5, BEM,
     Twilio (TwiML), webpack, ES7, SublimeText
