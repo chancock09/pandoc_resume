@@ -8,9 +8,9 @@ Chris Hancock
 Experience
 ----------
 
-**Handy** <small>_Software Engineer (2015 - Present)_</small>
+**Handy** <small>_Software Engineer (Jul 2015 - Present)_</small>
 
-Full-stack **Ruby on Rails** product engineer, Retention team lead, and de facto frontend owner.  Contributor across Handy's **microservices** ecosystem using **TDD**.
+Full-stack **Ruby on Rails** product engineer, Retention team lead, de facto frontend owner.  Contributor across Handy's **microservices** ecosystem using **TDD**.
 
 * Designed and deployed internal drip campaign library (sms, push, and text) with **Sidetiq**.
 
@@ -20,7 +20,7 @@ Full-stack **Ruby on Rails** product engineer, Retention team lead, and de facto
 
 * Optimized pro applicant funnel; increased yield by ~45% while decreasing acquisition costs by ~30% using **Checkr**, **Twilio**, and **Jumio**.
 
-**Clarity Consulting** <small>_Software Consultant (2014 - 2015)_</small>
+**Clarity Consulting** <small>_Software Consultant (Apr 2014 - Jul 2015)_</small>
 
 Contributor on several small, distributed, agile teams with high attention to frontend polish with engagements including:
 
@@ -32,7 +32,7 @@ Contributor on several small, distributed, agile teams with high attention to fr
 
 * Full-rewrite of a national tax firm's accounting software in **C#** with **MV5**, **Entity Framework**, and **AngularJS** frontend.
 
-**Gelber Group** <small>_Software Developer / Trading Assistant (2013 - 2014)_</small>
+**Gelber Group** <small>_Software Developer / Trading Assistant (Jun 2013 - Apr 2014)_</small>
 
 * Created reporting visualization **WPF** applications.
 
