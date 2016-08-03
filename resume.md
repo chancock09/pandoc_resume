@@ -18,7 +18,7 @@ Full-stack **Ruby on Rails** product engineer, Retention team lead, de facto fro
 
 * Core contributer on A/B testing library using **Planout**.
 
-* Optimized pro applicant funnel; increased yield by ~45% while decreasing acquisition costs by ~30% using **Checkr**, **Twilio**, and **Jumio**.
+* Increased pro applicant funnel yield ~45% while decreasing acquisition costs ~30% using **Checkr**, **Twilio**, and **Jumio** integrations.
 
 **Clarity Consulting** <small>_Software Consultant (Apr 2014 - Jul 2015)_</small>
 
