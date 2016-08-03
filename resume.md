@@ -10,7 +10,7 @@ Experience
 
 **Handy** <small>_Software Engineer (2015 - Present)_</small>
 
-Full-stack **Rails** product engineer, Retention team lead, and de facto frontend owner.  Contributor across Handy's **microservices** ecosystem using **TDD**.
+Full-stack **Ruby on Rails** product engineer, Retention team lead, and de facto frontend owner.  Contributor across Handy's **microservices** ecosystem using **TDD**.
 
 * Designed and deployed internal drip campaign library (sms, push, and text) with **Sidetiq**.
 
@@ -38,7 +38,7 @@ Contributor on several small, distributed, agile teams with high attention to fr
 
 * Automated time-consuming daily trade reporting and auditing with **Python**.
 
-* Built realtime statics and news-aggregation tooling with **OneTick**, **BlAPI** (Bloomberg), **ForexFactory**, and **MySql**
+* Built realtime statics and news-aggregation tooling with **OneTick**, **BlAPI** (Bloomberg), **ForexFactory**, and **MySql**.
 
 Technical
 --------------------
@@ -49,7 +49,7 @@ Server
 :   **Ruby on Rails** with **MySql**. Also **node**, **C#** (ASP MVC, Windows Universal), or **Python** (Django and Flask).
 
 Client
-:   **Javascript** and **AngularJS**.  **HTML5** and **CSS3**.  Some **jQuery**, **Backbone**, and **ReactJS**
+:   **Javascript** and **AngularJS**.  **HTML5** and **CSS3**.  Some **jQuery**, **Backbone**, and **ReactJS**.
 
 Other Tech
 :   Git, Github, Unix/Liunx, Pandas, ActiveAdmin, 
