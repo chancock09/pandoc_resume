@@ -14,7 +14,7 @@ Full-stack **Ruby on Rails** product engineer, Retention team lead, de facto fro
 
 * Designed and deployed internal drip campaign library (sms, push, and text) with **Sidetiq**.
 
-* Lead account page redesign using **AngularJS**; drove 10% weekly increase in app installs.
+* Lead account page redesign using **AngularJS**; drove ~10% weekly increase in app installs.
 
 * Core contributer on A/B testing library using **Planout**.
 
@@ -30,7 +30,7 @@ Contributor on several small, distributed, agile teams with high attention to fr
 
 * **jLync** and **Lync Server** keynote demos for Build Conference.
 
-* Full-rewrite of a national tax firm's accounting software in **C#** with **MV5**, **Entity Framework**, and **AngularJS** frontend.
+* Full-rewrite of a national tax firm's accounting software in **C#** with **MV5**, **Entity Framework**, and **AngularJS** frontend. Full-text search with **Lucene.net**.
 
 **Gelber Group** <small>_Software Developer / Trading Assistant (Jun 2013 - Apr 2014)_</small>
 
