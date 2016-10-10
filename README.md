@@ -1,7 +1,11 @@
-The Markdown Resume
+My Markdown Resume
 ===================
 
-###Instructions:
+### Download:
+
+You can find the latest PDF version [in the releases tab](https://github.com/chancock09/resume/releases/latest).
+
+### Build:
 
 ```
 git clone https://github.com/chancock09/resume
@@ -10,7 +14,7 @@ cd resume
 make
 ```
 
-###Requirements:
+### Requirements:
 
 - ConTeXt
 - pandoc
