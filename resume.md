@@ -10,11 +10,11 @@ Experience
 
 **Handy** <small>_Software Engineer (Jul 2015 - Present)_</small>
 
-Full-stack **Ruby on Rails** product engineer, Retention team lead, front-end specialist.
+Full-stack **Ruby on Rails** product engineer, Retention team lead, and front-end specialist.
 
 * Core contributor on internal A/B testing and drip campaign (SMS/Email/Voice) libraries.
 
-* Lead account page redesign using **AngularJS**; drove >10% weekly increase in app installs.
+* Lead account page redesign using **Angular**; drove >10% weekly increase in app installs.
 
 * Increased pro applicant funnel yield >40% while decreasing acquisition costs >30% using **Checkr**, **Twilio**, and **Jumio** integrations.
 
@@ -26,11 +26,11 @@ Contributor on small, distributed, agile teams with high attention to UI/UX poli
 
 * Pre-release **Windows 10 Universal App** for leading social media company.
 
-* Real-time embedded-systems demo for IoT North America with **C# Rx**, **AngularJS**.
+* Real-time embedded-systems demo for IoT North America with **C# Rx**, **Angular**.
 
 * **jLync** and **Lync Server** keynote demos for Build Conference.
 
-* Full rewrite of a national tax firm's accounting software in **C#** with **MV5**, **Entity Framework**, **AngularJS** frontend, and **Lucene.net** full-text search.
+* Full rewrite of a national tax firm's accounting software in **C#** with **MV5**, **Entity Framework**, **Angular** frontend, and **Lucene.net** full-text search.
 
 **Gelber Group** <small>_Software Developer / Trading Assistant (Jun 2013 - Apr 2014)_</small>
 
@@ -46,13 +46,13 @@ Technical
 -----
 
 Side Projects
-:	**Handymaps:** Basis of Handy Hackday's "Best Data Viz". Real time location visulizations using **D3** with **Socket.io**.
+:	**Handymaps:** Basis of Handy Hackday's "Best Data Viz". Real time location visulizations using **d3** with **Socket.io**.
 
 Server
 :   **Ruby on Rails** with **MySql**. Also **node**, **C#** (ASP MVC, Windows Universal), and **Python** (Django and Flask).
 
 Client
-:   **Javascript** and **AngularJS**.  **HTML5** and **CSS3**.  Some **jQuery**, **Backbone**, and **ReactJS**.
+:   **Angular** and **React** with **HTML5** and **CSS3**.  Some **jQuery** and **Backbone**.
 
 Other Tech
 :   Git, Github, Unix/Liunx, Pandas, ActiveAdmin,
@@ -61,7 +61,7 @@ Other Tech
 	  RESTful architecture, SoA, SQLite, TFS, d3,
     Entity Framework, Agile, Scrum, ASP MVC5, BEM,
     Twilio, TwiML, webpack, ES2015, SublimeText, BDD,
-    Microservices
+    Microservices, React, Flux
 
 Education
 -----
